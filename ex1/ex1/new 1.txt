@@ -1,0 +1,22 @@
+Could not resolve host: www-origin.coursera.org
+
+
+[error] submission with curl() was not successful
+
+!! Submission failed: Grader sent no response
+
+
+Function: submitWithConfiguration>validateResponse
+FileName: C:\Users\Muhammad Shoaib\Desktop\mlex1\ex1\lib\submitWithConfiguration.m
+LineNumber: 158
+
+Please correct your code and resubmit.
+
+
+I am currently a pursing my bachelors degree in Computer Science from Punjab University College of Information Technology, Lahore, Pakistan.It is a public sector University. I cannot afford the cost of certification since I do not have any fixed source of income but I am eager to learn new skills and have found Coursera to be a very good source. I want to earn a certificate to help me build my job resume and to make my self standout from the crowd and to show off my skill to my potential employers and land a job. My financial conditions does not allow me to buy the certificate. This certification will help me significantly to land a job and to support me and my family. On top of that the current financial situation of my country makes things even more worse with the price of USD increased my almost 40%-50% in the past few months.
+
+
+I want to to be a Machine Learning Engineer and learn state-of-the-art Machine Learning algorithms with all the math and intuition behind them so that I can give my best to serve my country. I have previously taken Artificial Intelligence course in my university and enjoyed the ML part a lot. This made me passionate about it and now I am doing my final year project in ML. I want to learn new algorithms form some of the top instructors in the world as I cannot afford to the the best institutions. Coursera provides me with the opportunity to exactly that. This is a dream of me. With this course I can improve my skill of machine learning and I will be a step a closer to my dream career
+
+
+
